@@ -4,6 +4,14 @@ concorde/_concorde.c
 data/
 build/
 concorde.egg-info/
-
+*.res
+*.sol
+*.pul
+*.sav
+*.00*
+*.so
+pyconcorde.egg-info
+.vscode
 
 /venv/
+dataset
